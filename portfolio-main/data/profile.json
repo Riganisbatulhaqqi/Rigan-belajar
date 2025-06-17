@@ -18,10 +18,10 @@
     "skills": [
         {"name": "PCB Design", "icon": "fas fa-microchip"},
         {"name": "Internet of Things", "icon": "fas fa-wifi"},
-        {"name": "Hardware Design", "icon": "fas fa-desktop", "},
-	{"name": "Hardware Programming", "icon": "fas fa-c", "},
-	{"name": "Project Management", "icon": "fas fa-list-check", "},
-	{"name": "Academic Writing", "icon": "fas fa-pen", "},
-	{"name": "Foreign Languages", "icon": "fas fa-language", "}
+        {"name": "Hardware Design", "icon": "fas fa-desktop"},
+	{"name": "Hardware Programming", "icon": "fas fa-c"},
+	{"name": "Project Management", "icon": "fas fa-list-check"},
+	{"name": "Academic Writing", "icon": "fas fa-pen"},
+	{"name": "Foreign Languages", "icon": "fas fa-language"}
     ]
 }
